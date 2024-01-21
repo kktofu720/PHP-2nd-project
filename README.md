@@ -103,7 +103,7 @@
 ##### - 안에 있는 값을 클릭하면 바뀌면서 바로 수정이 가능합니다.
 
 #### > 업무명 자세히 보기
-##### - 업무명이 너무 길어 다 안보일 때 마우스를 올리면 한 눈에 볼 수 있게 팝오버가 뜨게 했습니다. 
+##### - 업무명이 너무 길어 다 안보일 때 마우스를 올리면 팝오버가 뜨며 한 눈에 볼 수 있게 했습니다. 
 <br>
 
 ![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/8cc4e573-c4b0-4dbc-91be-bf712bf8c86d)
@@ -134,5 +134,8 @@
 ![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/30cb6e27-b198-493f-8cf0-9845ae9a2881)
 ![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/85fcfb58-2506-46aa-9914-6d993cc2c76e)
 
+
+##### 3차 전체PPT 링크  
+> ###### https://www.canva.com/design/DAF6ACiPu1I/SChjWl72RlBmxMNA_PejPA/view?utm_content=DAF6ACiPu1I&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 </details>
