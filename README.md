@@ -1,14 +1,14 @@
 
-# 2,3차 프로젝트 사이트 URL
+## 2,3차 프로젝트 사이트 URL
 개인사업자 / 프리랜서를 위한 프로젝트 관리 툴
 > http://112.222.157.156:6001
 - 아이디 : admin@naver.com
 - 비밀번호 : Password123!
 
-# 2,3차 프로젝트 팀 깃 URL
+## 2,3차 프로젝트 팀 깃 URL
 > https://github.com/php-Together/php_project3
 
-# 프로젝트 PPT (맡은 파트)
+## 프로젝트 PPT (맡은 파트)
 |  | 2차 | 3차 |
 | ------ | -- | -- |
 | ☑️ | - 간트차트(개인/팀) 개별 출력<br>- 간트차트 검색기능<br>- 간트차트 업무 정렬 기능<br>- 간트차트 업무명,시작일/마감일 수정<br>- 간트차트 하위 업무 생성| - 전체 간트차트<br>- 간트차트 담당자, 상태 수정<br>- 간트차트 업무 필터링 기능<br>- 모달 댓글 수정 위치 조정<br>- 모달 작성 오류 메세지 출력 |
@@ -16,7 +16,7 @@
 <br>
 
 <details markdown="1">
-<summary>2차 PPT</summary>
+<summary>2차 프로젝트 PPT</summary>
   
 ![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/c6b77422-c765-4974-987c-245c51e50695)
 ![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/9994295b-c0a8-4e52-9ed8-f0eedae51778)
@@ -56,7 +56,7 @@
 </details>
 
 <details markdown="1">
-<summary>3차 PPT</summary>
+<summary>3차 프로젝트 PPT</summary>
   
 ![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/455e18ff-0ae2-4939-92a1-d43bc377434b)
 ![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/e738627a-e4a0-4a24-b1c2-53c820c71a1f)
