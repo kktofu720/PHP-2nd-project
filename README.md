@@ -1,5 +1,6 @@
 
 # 2,3차 프로젝트 사이트 URL
+개인사업자 / 프리랜서를 위한 프로젝트 관리 툴
 > http://112.222.157.156:6001
 - 아이디 : admin@naver.com
 - 비밀번호 : Password123!
@@ -46,6 +47,60 @@
 ![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/e4e99797-bc49-4707-b6f6-df3452a45c61)
 ![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/c0e049ef-e59d-4399-9283-09003869dedb)
 
+</details>
+
+<details markdown="1">
+<summary>3차 PPT</summary>
+  
+![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/455e18ff-0ae2-4939-92a1-d43bc377434b)
+![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/e738627a-e4a0-4a24-b1c2-53c820c71a1f)
+![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/700c8d89-919d-4c9c-bc08-46d03707cfdf)
+![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/58e0740a-6dc5-4fbf-a7a8-844608f89089)
+![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/7ffffca0-f072-4961-96d1-9ceff74fb390)
+![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/056cd001-31b5-4483-b046-8de32ee6820e)
+![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/8e678031-60f2-48ea-a675-5c6a24a1f19e)
+![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/ee274030-27d1-4668-a644-69e22156b665)
+![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/904c2031-c457-4021-8706-89b6321c24c8)
+![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/c26c3725-aa6d-4e09-a8df-4c4229ca1763)
+![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/ac373e40-7dbc-4c4b-81a6-aee31b8f1fcf)
+![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/a40dce24-3061-4243-b7cb-f265a03eac81)
+![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/99fdf803-e3ed-4f9d-9750-7fe86de8b726)
+
+>1
+-
+<br>
+
+![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/9ba15e26-9944-4be5-ba5d-6290c66588d1)
+>2
+-
+<br>
+
+![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/cec6349e-f7d3-4044-b510-eca5b36559c4)
+
+>3
+-
+<br>
+
+![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/8cc4e573-c4b0-4dbc-91be-bf712bf8c86d)
+
+>4
+-
+<br>
+
+![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/4ba12c60-fa5a-48ab-92c1-d2c58b122d52)
+
+>5
+-
+<br>
+
+![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/93241863-5349-4d7e-a763-a0f4fb8b2920)
+
+>6
+-
+<br>
+
+![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/30cb6e27-b198-493f-8cf0-9845ae9a2881)
+![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/85fcfb58-2506-46aa-9914-6d993cc2c76e)
 
 
 </details>
