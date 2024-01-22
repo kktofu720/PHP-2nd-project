@@ -113,7 +113,7 @@
 ##### - 상태/담당자/시작일/마감일을 각각 체크하면 체크한 값들만 포함된 업무가 필터링 됩니다.
 <br>
 
-![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/4ba12c60-fa5a-48ab-92c1-d2c58b122d52)
+![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/9c2691a8-077b-48e6-a2f0-f0cf099c99a5)
 
 #### > 전체 간트차트 출력
 ##### - 프로젝트 별 간트차트를 모두 모아 한 번에 볼 수 있는 전체 간트차트입니다.
