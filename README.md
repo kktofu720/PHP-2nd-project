@@ -16,7 +16,7 @@
 <br>
 
 <details markdown="1">
-<summary> 2차 프로젝트 PPT</summary>
+<summary> 2차 프로젝트 PPT + 설명</summary>
   
 ![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/c6b77422-c765-4974-987c-245c51e50695)
 ![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/9994295b-c0a8-4e52-9ed8-f0eedae51778)
@@ -56,7 +56,7 @@
 </details>
 
 <details markdown="1">
-<summary>3차 프로젝트 PPT</summary>
+<summary>3차 프로젝트 PPT + 설명</summary>
   
 ![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/455e18ff-0ae2-4939-92a1-d43bc377434b)
 ![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/e738627a-e4a0-4a24-b1c2-53c820c71a1f)
