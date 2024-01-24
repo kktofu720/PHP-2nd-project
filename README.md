@@ -69,7 +69,7 @@
 ![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/7ffffca0-f072-4961-96d1-9ceff74fb390)
 ![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/056cd001-31b5-4483-b046-8de32ee6820e)
 
-#### > 저희가 만든 간트차트로 3차 프로젝트 이후 업무일정을 관리해 보았습니다.  
+#### > 저희가 만든 협업툴로 3차 프로젝트 이후 간트차트를 구현해 업무일정을 관리해 보았습니다.  
 
 ![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/8e678031-60f2-48ea-a675-5c6a24a1f19e)
 ![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/ee274030-27d1-4668-a644-69e22156b665)
@@ -122,10 +122,11 @@
 ##### - 상태/담당자/시작일/마감일을 각각 체크하면 체크한 값들만 포함된 업무만 필터링 됩니다.
 <br>
 
-![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/9c2691a8-077b-48e6-a2f0-f0cf099c99a5)
+![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/635ce53e-e68f-46d6-8198-ee43e9a23921)
 
 #### > 전체 간트차트 출력
 ##### - 프로젝트 별 간트차트를 모두 모아 한 번에 볼 수 있는 전체 간트차트입니다.
+##### - 상세보기와 검색/필터/정렬만 가능하고 추가/수정/삭제는 불가능합니다.
 <br>
 
 ![image](https://github.com/kktofu720/PHP-2nd-project/assets/142575027/93241863-5349-4d7e-a763-a0f4fb8b2920)
